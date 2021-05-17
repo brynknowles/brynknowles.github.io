@@ -1,37 +1,33 @@
-## Welcome to GitHub Pages
+![Avatar](src)
 
-You can use the [editor on GitHub](https://github.com/brynknowles/brynknowles.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+## Hello, World!
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+My name is Bryn Knowles. 
+I'm a software engineer located in Brooklyn, NY, and  I love to build things and learn new technologies.
 
-### Markdown
+Come take a tour of my portfolio...
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### About
 
-```markdown
-Syntax highlighted code block
+I love to create engaging and educational web apps that promote and encourage social + environmental good. I take pride in building online experiences that are responsive in layout, intuitive in design, accessible and inclusive, and have quick load times that keep the user involved and interested in exploring further.
 
-# Header 1
-## Header 2
-### Header 3
+### Projects
 
-- Bulleted
-- List
+- LitterPicker
+- MonorailTCG
+- Brelby
+- Ruby Icecream Shop
 
-1. Numbered
-2. List
+### Hobbies
+- Biking
+- Urban Adventuring
+- Longboarding
+- Gardening
+- Cleaning up litter
+- Traveling
 
-**Bold** and _Italic_ and `Code` text
+### Contact
 
-[Link](url) and ![Image](src)
-```
+LinkedIn: https://www.linkedin.com/in/knowlesbryn/
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/brynknowles/brynknowles.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+GitHub: https://github.com/brynknowles
