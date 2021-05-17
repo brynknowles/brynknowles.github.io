@@ -20,7 +20,7 @@ I love to create engaging and educational web apps that promote and encourage so
 
 ### Hobbies
 - Biking
-- Urban Adventuring
+- Urban adventuring
 - Longboarding
 - Gardening
 - Cleaning up litter
